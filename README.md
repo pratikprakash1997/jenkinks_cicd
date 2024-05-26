@@ -1,2 +1,2 @@
-# jenkinks_cicd
+# jenkins_cicd
 integration of github with jenks and sonar
